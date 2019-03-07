@@ -12,3 +12,4 @@ Create jquery plugin for message input with characters limit that displays how m
 - Form layout on desktop: name and email fields should be on first row and message on second
 - Form layout on mobile: each field on separate row
 - Max length of message field should be defined in data-* attribute
+- use ES5 syntax
